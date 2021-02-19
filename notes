@@ -1,0 +1,23 @@
+
+####### Install instructions
+# not using this on local
+# pip3 install -r requirements.txt
+# python3 -m spacy download en_core_web_sm
+# pip3 install amrlib
+
+brew install graphviz
+pip install graphviz
+
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+pip install amrlib
+
+# use model_parse_t5-v0_1_0.tar.gz as `model_stog` the default for parsing
+
+
+
+
+
+
+
+

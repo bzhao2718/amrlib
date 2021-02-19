@@ -147,4 +147,6 @@ external/
 external/*
 wodeutil/
 
+data/
+amrlib/data/
 
